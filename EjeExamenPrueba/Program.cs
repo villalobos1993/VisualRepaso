@@ -11,6 +11,7 @@ namespace EjeExamenPrueba
         static void Main(string[] args)
         {
             Console.WriteLine("Hola mundo");
+            Console.Write("Hola");
         }
     }
 }
