@@ -5,28 +5,6 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjeExamenPrueba", "EjeExamenPrueba\EjeExamenPrueba.csproj", "{28EB80B0-186B-4210-BBE7-D84A51D9342B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{22FE091E-84D1-4CFF-9A28-60D656BFEC32}"
-	ProjectSection(SolutionItems) = preProject
-		EjeExamenPrueba\Alumno.cs = EjeExamenPrueba\Alumno.cs
-		EjeExamenPrueba\Clase.cs = EjeExamenPrueba\Clase.cs
-		EjeExamenPrueba\Persona.cs = EjeExamenPrueba\Persona.cs
-		EjeExamenPrueba\Profesor.cs = EjeExamenPrueba\Profesor.cs
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "common", "common", "{56DF8265-CBDB-40EA-A53A-5E329BEE8C5E}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Main", "Main", "{5472A8A3-D424-4E29-BF0B-2658CD1BDEBF}"
-	ProjectSection(SolutionItems) = preProject
-		EjeExamenPrueba\Persona.cs = EjeExamenPrueba\Persona.cs
-		EjeExamenPrueba\Program.cs = EjeExamenPrueba\Program.cs
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interfaces", "Interfaces", "{61F011B9-3FB2-4C13-803C-09F94C7D7B01}"
-	ProjectSection(SolutionItems) = preProject
-		EjeExamenPrueba\Evaluador.cs = EjeExamenPrueba\Evaluador.cs
-		EjeExamenPrueba\Saludable.cs = EjeExamenPrueba\Saludable.cs
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
