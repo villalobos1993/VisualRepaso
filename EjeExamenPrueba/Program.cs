@@ -13,7 +13,7 @@ namespace EjeExamenPrueba
 
             Persona p = new Profesor(2000,"Jose", "De la Torre", 27);
             p.Saludar();
-            p.
+            
 
           
         }
